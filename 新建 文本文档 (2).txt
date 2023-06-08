@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI小R</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    a {
+      display: block;
+      margin: 10px;
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>欢迎来到AI小R的网站</h1>
+    <a href="page1.html">链接到第一页</a>
+    <a href="page2.html">链接到第二页</a>
+    <a href="page3.html">链接到第三页</a>
+  </div>
+</body>
+</html>
+
